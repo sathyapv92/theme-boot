@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+/* using Sass */
+
+
+@import "./mtheme";
+@import "~bootstrap/scss/bootstrap";
+
+$blue: #007bff !default;
+
+
+$primary: $blue !default;
+
+
+$theme-colors: () !default;
