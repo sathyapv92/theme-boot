@@ -1,4 +1,12 @@
+$base-theme:Bootstrap;
+$skin-name:brand2018;
+$accent: #84329b;
+$secondary: #02bceb;
+
+$series-f: #d9534f;
+
+// Automatically mapped to Bootstrap
 $theme-colors: (
-    "primary": #84329b,
-    "secondary": #02bceb
-);
+     "primary": $accent,
+     "secondary": $secondary
+   );
